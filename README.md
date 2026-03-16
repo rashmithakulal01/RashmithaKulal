@@ -1,14 +1,8 @@
 # 👋 Hi, I'm Rashmitha!
 
-I'm an **Assistant System Engineer** at Tata Consultancy Services, passionate about continuous learning and solving real-world problems through technology.
+**Assistant System Engineer** at Tata Consultancy Services | ☕ Java & 🧩 DSA Enthusiast
 
-## 🎯 About Me
-
-- 🎓 Currently working as an Assistant System Engineer at **Tata Consultancy Services**
-- 💡 I thrive on challenging projects that push me to expand my skill set and knowledge
-- 🚀 Dedicated to staying updated with emerging technologies and best practices
-- 📚 A lifelong learner who dedicates free time to mastering new technologies and frameworks
-- 🤝 Open to collaborating on innovative projects that create meaningful impact
+---
 
 ## 📫 Connect With Me
 
@@ -21,37 +15,42 @@ I'm an **Assistant System Engineer** at Tata Consultancy Services, passionate ab
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Technical Skills
 
-<img src="https://user-images.githubusercontent.com/86283625/162602056-2ab3a406-3e2b-4801-8b3e-5dba963dcbba.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/86283625/162602138-da3e2a74-d7a4-4927-a74f-e4a9ede0a865.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" title="PHP" alt="PHP" width="60" height="60"/>&nbsp;
-<img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" title="C++" alt="C++" width="60" height="60"/>&nbsp;
+**🖥️ Programming:** Java, SQL, HTML, CSS, PowerShell (Basic)
 
----
+**☁️ Technologies:** Windows Server, Active Directory, Azure AD, Microsoft 365, Networking
 
-## 📊 GitHub Analytics
-
-<a href="https://github.com/rashmithakulal01">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rashmithakulal01&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-</a>
-
-<a href="https://github.com/rashmithakulal01">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=rashmithakulal01&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D"/>
-</a>
+**⚙️ Tools:** Git, VS Code, ServiceNow, Dynatrace, Nexthink, Nagios, SAP GUI, RDP
 
 ---
 
-## 🔥 Profile Views
+## 🎯 Currently Learning
 
-<img src="https://komarev.com/ghpvc/?username=rashmithakulal01&label=PROFILE+VIEWS&color=blue" alt="Profile Views"/>
-
----
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif?cid=ecf05e47mm0jvfhygu8gnhv6kheejf4v3dhptbk5kiuii9e7&rid=giphy.gif&ct=s" width="400"/>
-</div>
+- ☕ **Java & Data Structures & Algorithms (DSA)**
+- 🧠 **Problem-solving through coding challenges**
+- 📚 **Building strong programming fundamentals**
 
 ---
 
-*"Excellence is not a skill, it's an attitude. Every challenge is an opportunity to grow."*
+## 💡 About Me
+
+- 🎓 Currently working as an Assistant System Engineer at **Tata Consultancy Services**
+- 💡 I thrive on challenging projects that push me to expand my skill set and knowledge
+- 🚀 Dedicated to staying updated with emerging technologies and best practices
+- 📚 A lifelong learner who dedicates free time to mastering new technologies and frameworks
+- 🤝 Open to collaborating on innovative projects that create meaningful impact
+- ☕ Focused on mastering **Java & Data Structures & Algorithms (DSA)**
+
+---
+
+## 📊 My Goals
+
+- ✅ Master core data structures in Java
+- ✅ Solve algorithmic challenges
+- ✅ Build efficient and scalable applications
+- ✅ Contribute to open source projects
+
+---
+
+*"🎯 Master the fundamentals, solve one problem at a time!"*
