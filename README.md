@@ -54,4 +54,4 @@
 
 ---
 
-*"🎯 Master the fundamentals, solve one problem at a time!"*
+*⭐ Always curious to learn new technologies and solve real-world problems.*
