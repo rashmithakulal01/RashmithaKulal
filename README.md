@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Rashmitha!
 
-**Assistant System Engineer** at Tata Consultancy Services | ☕ Java & 🧩 DSA Enthusiast
+**Assistant System Engineer** at Tata Consultancy Services, passionate about continuous learning and solving real-world problems through technology.
+
 
 ---
 
